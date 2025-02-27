@@ -3,4 +3,9 @@ Hello GitHub!
 My name is Candice.
 This is my new feature.
 
+<<<<<<< HEAD
 Edit for Step 6.
+=======
+
+Local edit for step 6
+>>>>>>> f420cc8 (Local edit for step 6)
