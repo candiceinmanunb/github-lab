@@ -2,3 +2,5 @@ Hello world!
 Hello GitHub!
 My name is Candice.
 This is my new feature.
+
+Edit for Step 6.
